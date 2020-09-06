@@ -374,6 +374,14 @@ nav li a:hover{
         margin: 5%;
         padding: 10px;
     }
-    
+
+    .banner form input{
+        margin: 5%;
+        padding: 10px;
+    }
+    .sub input{
+        padding: 5px 10px;
+        font-size: 20px;
+    }
 }
 
